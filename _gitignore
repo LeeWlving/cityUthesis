@@ -1,0 +1,15 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.toc
+*.gz
+*.md5
+*.dat
+*.script
+*.auxlock
+*.out
+*.code-workspace
+dist
+__pycache__
